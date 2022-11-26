@@ -1,0 +1,204 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+    font-family: 'League Spartan';
+}
+.header{
+    height: 900px;
+	background: #F8F8F8;
+}
+.title1{
+    margin-top: 104px;
+    margin-bottom: 54px;
+ 
+font-size: 24px;
+line-height: 45px;
+
+}
+.title2{
+   
+font-size: 250px;
+line-height: 230px;
+
+margin-bottom: 43px;
+}
+.header_text{
+	font-weight: 300;
+font-size: 32px;
+line-height: 155%;
+
+}
+.header_text0{
+	height: 142px;
+	width: 600px;
+	margin-bottom: 61px;
+}
+a{
+	color: aliceblue;
+	text-decoration: none;	
+}
+.button_container{
+	display: flex;
+	margin-top: 61px;
+}
+.button_text1{
+	font-weight: 300;
+font-size: 32px;
+line-height: 29px;
+margin-top: 26px;
+margin-left: 73px;
+
+}
+.heder_button1{
+	height: 82px;
+	width: 278px;
+	background-color: #161515;
+}
+.button_text2{
+	font-weight: 300;
+font-size: 32px;
+line-height: 60px;
+margin-top: 13px;
+margin-left: 28px;
+}
+.heder_button2{
+	background: #FFFFFF;
+	width: 143px;
+	height: 82px;
+}
+.header_content{
+	display: flex;
+	margin-left: 135px;
+}
+.header_img{
+	width: 408px;
+	height: 720px;
+	margin-left: 82px;
+}
+.main_title{
+text-align: center;
+}
+.main_title1{
+	font-weight: 300;
+font-size: 24px;
+line-height: 45px;
+}
+.main_title2{
+	font-weight: 400;
+font-size: 72px;
+line-height: 81px;
+margin-bottom: 84px;
+}
+.img_on{
+	background: #F8F8F8;
+	width: 417px;
+	height: 630px;
+	margin: 0 auto;
+	margin-bottom: 67px;
+	margin-top: 85px;
+}
+.main_img{
+
+	margin-top: 110px;
+	margin-left: 71px;
+}
+.name{
+	font-weight: 400;
+font-size: 32px;
+line-height: 29px;
+text-align: center;
+margin-bottom: 17px;
+}
+.main_text{
+	font-weight: 300;
+font-size: 32px;
+line-height: 50px;
+text-align: center;
+
+}
+.main_t{
+	height: 194px;
+	width: 531px;
+	margin: 0 auto;
+}
+.img_on1{
+	background: #F8F8F8;
+	width: 496px;
+	height: 630px;
+	margin: 0 auto;
+	margin-bottom: 67px;
+	margin-top: 85px;
+}
+.main_img1{
+margin: 0 auto;
+}
+.tutle{
+	text-align: center;
+	font-weight: 400;
+font-size: 32px;
+line-height: 60px;
+margin-top: 59px;
+}
+.poloska{
+	margin: 0 auto; 
+    content: '';
+    display: block;
+    border-bottom: 1px solid black;
+    width: 178px;
+	margin-bottom: 49px;
+}
+.end_text_container{
+	width: 530px;
+height: 231px;
+margin: 0 auto;
+}
+.end_text{
+
+	font-weight: 300;
+font-size: 24px;
+line-height: 41px;
+}
+.last_word{
+	color: #BB8B5D;
+}
